@@ -40,6 +40,7 @@ background: radial-gradient(white 0%,#6e44ff 45%,#542ee0 70%, #5e3dd6 100%);
   0% {
     opacity: 0;
     transform: translateZ(100%);
+    
   }
   100% {
     opacity: 1;
