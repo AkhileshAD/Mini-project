@@ -7,7 +7,7 @@ function App() {
   return (
    <>
    <Header/>
-   {/* <Cards></Cards> */}
+   <Cards></Cards>
    </>
   );
 }
